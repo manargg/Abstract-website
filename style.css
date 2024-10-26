@@ -401,6 +401,13 @@ body{
           for mobile phones
 ----------------------------------*/
 @media (min-width: 375px) and (max-width: 480px){
+
+  .logo-header a{
+    font-size: 1rem;
+  }
+  .header-btn a{
+    font-size: 1rem;
+  }
   
   .help-container{
     height: 350px;
