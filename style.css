@@ -277,11 +277,14 @@ body{
   align-items: center;
   gap: 5px;
   background-color: var(--button-color);
-  color: var(--white-color);
   font-size: 1rem;
   padding: 10px 25px;
   border-radius: 50px;
   border: none;
+}
+.footer-btn button a{
+  text-decoration: none;
+  color: var(--white-color);
 }
 .footer-btn button:hover{
   cursor: pointer;
